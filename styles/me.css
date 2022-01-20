@@ -1,0 +1,31 @@
+h1{
+text-align:right;
+margin-top:100px;
+margin-right:50px;
+font-family: 'Bebas Neue', cursive;
+FONT-SIZE:55PX;
+}
+
+.foto1 { padding-bottom:20px;padding-top: 150px; margin: 150px;float: left; width: 500px;lenght:550px;margin-top:-150px;margin-bottom:20px; }
+
+h2{
+font-family: 'Roboto', sans-serif;
+text-align:right;
+margin-right:50px;
+
+}
+
+h3{
+font-family: 'Changa', sans-serif;
+text-align:right;
+margin-right:50px;
+}
+
+p{
+margin-right:50px;
+}
+ h5{
+ font-family: 'Bubbler One', sans-serif;
+ text-align:right;
+ margin-right:50px;
+}
